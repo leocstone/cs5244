@@ -1,5 +1,5 @@
 ## Final Project for Web Application Development
-This project implements a complete web application, including a frontend written with Vue.js and a backend written in Java using Jersey.
+This project implements a complete web application, including a frontend written with Vue.js and a backend REST API written in Java using Jersey.
 
 The frontend [queries the backend server](client/src/stores), which [queries a SQL server](server/src/main/java/business/category/CategoryDaoJdbc.java) for the details of the books listed on the website.
 
